@@ -1,6 +1,5 @@
 What This Project Is:
-A simple CRUD REST API that manages a list of travel destinations stored in a local SQLite database. Users can create, read, update, and delete destinations via HTTP requests.
-
+built a Flask REST API that connects HTTP requests to a SQLite database using SQLAlchemy.
 
 What I learned:
 Flask — how to spin up a lightweight Python web server and define URL routes with @app.route()
